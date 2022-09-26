@@ -183,7 +183,7 @@ s.show_board()
 x = input()'''
 
 # the commented part is only for testing purposes
-# it is a read-made selected puzzle that took long time to solve
+# it is a ready-made selected puzzle that took long time to solve
 
 # making the GUI
 screen.bgcolor('black')
